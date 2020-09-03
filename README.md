@@ -1,3 +1,3 @@
-# hello-world
-Data mining and Artificial intelligence 
-A Software engineer and an AI enthusiast 
+# Machine Learning Algorythms
+Data mining and Sentiment analysis
+deploying reinforcement learning algorythm 
